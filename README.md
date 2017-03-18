@@ -6,3 +6,6 @@
 * [] Implemented a Java Server to communicate with the BBB. 
 * [] Using JSP any user from remote location may establish connection with the connected devices using a browser.
 
+
+## Running the Project 
+   We need a BBB and a router.
